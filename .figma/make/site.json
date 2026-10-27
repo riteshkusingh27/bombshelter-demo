@@ -1,0 +1,10 @@
+{
+  "description": "Explore and compare bomb shelters, storm shelters, safe rooms, bunkers, and homes, with expert guidance, financing information, and quote requests.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
